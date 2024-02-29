@@ -1,6 +1,5 @@
 import React from 'react';
-import styled from 'styled-components';
-import { Link } from 'styled-components';
+import styled from 'styled-components'; 
 
 const Contact = () => {
     return (
