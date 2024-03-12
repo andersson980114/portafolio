@@ -25,7 +25,7 @@ const Contact = () => {
   
           <ContactColumn>
             <ContactInfo><i className="bi bi-whatsapp"></i> +57 317 432 0208</ContactInfo>
-            <ContactInfo><i className="bi bi-geo-alt-fill"></i> Buga, Colombia </ContactInfo>
+            <ContactInfo><i className="bi bi-geo-alt-fill"></i> Colombia </ContactInfo>
           </ContactColumn>
         </ContactColumns>
       </ContactSection>
